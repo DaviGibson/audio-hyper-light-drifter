@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{78e94b67-2cd6-4787-af17-08b1621bf887}">
+		<property name="name">
+			<value>Lead</value>
+		</property>
+		<relationship name="folder">
+			<destination>{f6704fe7-b1a9-42b9-a062-dc3cecf35465}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e2cd6b4d-a98b-4988-8461-88ab6ab5e8f2}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e2cd6b4d-a98b-4988-8461-88ab6ab5e8f2}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.29999998211860657</value>
+		</property>
+		<property name="seekSpeedDescending">
+			<value>0.2800000011920929</value>
+		</property>
+		<property name="seekSpeedAsymmetric">
+			<value>true</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+		<relationship name="automators">
+			<destination>{0e8a71ec-2bf9-4b89-a967-8e653172b432}</destination>
+		</relationship>
+	</object>
+	<object class="Automator" id="{0e8a71ec-2bf9-4b89-a967-8e653172b432}">
+		<property name="nameOfPropertyBeingAutomated">
+			<value>cursorPosition</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9d991a4b-0346-4874-b120-c319af466e71}">
+		<property name="assetPath">
+			<value>Ambiente Sônico Tópico/Hovering Drone01.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>3.2030158730158731</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{92cf6b9e-76d4-4a02-b1e3-9ac182871cea}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{72138eb1-6064-4d71-b68a-43aa281269c6}">
+		<property name="name">
+			<value>terreno</value>
+		</property>
+		<relationship name="folder">
+			<destination>{f6704fe7-b1a9-42b9-a062-dc3cecf35465}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{446773f2-266b-4b6d-a687-afee471c1610}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{446773f2-266b-4b6d-a687-afee471c1610}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>calmo</value>
+			<value>bravo</value>
+			<value>correr</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

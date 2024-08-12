@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{353fbea9-b4f9-4691-a1d3-06c56f980fc2}">
+		<property name="assetPath">
+			<value>Trilha-chorus&amp;baixo/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{92cf6b9e-76d4-4a02-b1e3-9ac182871cea}</destination>
+		</relationship>
+	</object>
+</objects>
